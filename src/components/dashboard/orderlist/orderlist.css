@@ -1,0 +1,22 @@
+.table-container{
+    width: 80%;
+    padding: 100px 150px;
+    background-color: white;
+    align-items: center;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 150px;
+
+}
+.table-head{
+    background-color: rgb(85, 7, 85);
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 25px;
+    color: violet;
+    font-weight: bold;
+}
+.td-head{
+    margin: 20px;
+    padding: 20px;
+}

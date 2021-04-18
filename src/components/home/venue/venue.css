@@ -1,0 +1,9 @@
+.venue-hotel{
+    height:400px;
+    overflow: scroll;
+}
+
+.venue-main-img{
+    height: 100%;
+    width: 90%;
+}

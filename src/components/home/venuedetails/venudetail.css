@@ -1,0 +1,12 @@
+.venuedetail-container{
+    border: 1px solid;
+    padding: 10px 50px;
+    margin-bottom: 50px;
+    background-color: rgba(0,0,0,0.09);
+    height: 200px;   
+}
+
+.venuedetail-container img{
+    width:150px;
+    height:150px;
+}

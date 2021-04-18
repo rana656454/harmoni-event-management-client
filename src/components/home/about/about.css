@@ -1,0 +1,17 @@
+.about-container{
+    background-color: #686de0;
+    padding: 70px 10px;
+
+}
+
+.about-head{
+    background-color:white;
+    width:30%;
+    margin-left: 35%;
+    padding: 20px;
+    border-radius: 100px;
+    text-transform: uppercase;
+    color:#30336b;
+    font-weight: bold;
+
+}

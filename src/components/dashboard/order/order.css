@@ -1,0 +1,11 @@
+.tr-order{
+    background-color: violet;
+    border-radius: 15px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.tr-order:hover{
+background-color: rgba(0,0,0,0.09);
+}
