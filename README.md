@@ -2,7 +2,7 @@
 
 My Project Website Link [visit Website](https://elated-mclean-e6455f.netlify.app/).
 
-github link [visit Website] (https://github.com/Porgramming-Hero-web-course/full-stack-client-rana656454).
+github clientsite link [visit Website] (https://github.com/Porgramming-Hero-web-course/complete-website-client-rana656454).
 serversite link [visit websit] (https://secret-reef-97794.herokuapp.com/).
 
 ## Available Features
